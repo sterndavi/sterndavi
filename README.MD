@@ -1,4 +1,5 @@
-<center><b>Economist, R developer</b></center><br>
+<h3 align="center">Economist, R developer</h3>
+<br>
 
 ***Oh, hey, hi! How are you?*** <br>
 
@@ -11,4 +12,4 @@
 * 🎧 Interested in old movies and different mediums to enjoy music.
 
 
-You can hit me up anytime
+***You can hit me up anytime***
