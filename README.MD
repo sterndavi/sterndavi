@@ -1,4 +1,4 @@
-<h3 align="center">Economist, R developer</h3>
+<h3 align="center">Economist, R junior developer</h3>
 <br>
 
 ***Oh, hey, hi! How are you?*** <br>
