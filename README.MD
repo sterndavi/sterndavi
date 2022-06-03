@@ -1,9 +1,7 @@
-<h3 align="center">Economist, R junior developer</h3>
+<h3 align="center">Data Engineer treinee at Blueshift Brasil</h3>
 <br>
 
 ***Oh, hey, hi! How are you?*** <br>
-
-* 🌆 I am tidying data, designing dashboards and creating data visualizations at Biopark.
 
 * 👨‍💻 I am currently improving my data modeling, statistics and programming skills. 
 
