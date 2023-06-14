@@ -1,3 +1,3 @@
-<h3 align="center">Data Engineer at Blueshift Brasil</h3>
+<h3 align="center">Data Engineer at Jump Label</h3>
 <br>
 
